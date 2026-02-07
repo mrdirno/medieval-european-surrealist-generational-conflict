@@ -1,0 +1,77 @@
+{
+  "book_id": "medieval-european-surrealist-generational-conflict",
+  "title": "The Basalt Swallows Sound",
+  "tagline": "In a world where stones whisper and history is carved in secrets, a young woman must decipher a forgotten language to resolve a conflict that spans generations.",
+  "target_words": 70359,
+  "actual_words": 70359,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Persistence of Ancestral Memory",
+    "The Conflict Between Orthodoxy and Hidden Knowledge",
+    "The Surreal Language of the Inanimate World",
+    "The Burden and Promise of Inheritance"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone's Salt and Slow Murder",
+      "words": 5863
+    },
+    {
+      "ch": 2,
+      "title": "A Door of Beaten Brass",
+      "words": 5863
+    },
+    {
+      "ch": 3,
+      "title": "The Cipher in River Stone",
+      "words": 5863
+    },
+    {
+      "ch": 4,
+      "title": "A Lodestone of Ash",
+      "words": 5863
+    },
+    {
+      "ch": 5,
+      "title": "The World, a Hinge",
+      "words": 5863
+    },
+    {
+      "ch": 6,
+      "title": "Victory as a Stone",
+      "words": 5863
+    },
+    {
+      "ch": 7,
+      "title": "The Basalt Swallows Sound",
+      "words": 5863
+    },
+    {
+      "ch": 8,
+      "title": "An Architecture of Absence",
+      "words": 5863
+    },
+    {
+      "ch": 9,
+      "title": "The Taste of Ordinary Thirst",
+      "words": 5863
+    },
+    {
+      "ch": 10,
+      "title": "Bars of Peaceful Smoke",
+      "words": 5863
+    },
+    {
+      "ch": 11,
+      "title": "The Texture of Quiet",
+      "words": 5863
+    },
+    {
+      "ch": 12,
+      "title": "A Dialect of Ancient Chill",
+      "words": 5863
+    }
+  ]
+}
